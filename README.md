@@ -4,7 +4,7 @@ I'm someone who is passionate about Open Source Softwares and GNU/Linux and Andr
 
 - 🌱 I’m currently learning C, C++, Make.
 - 📫 How to reach me:
- - Telegram: @YZBruh
+  - Telegram: @YZBruh
 - 😄 Pronouns: He/Him
 
 #### I'm knowing and learning;
