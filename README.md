@@ -2,10 +2,10 @@
 
 I'm someone who is passionate about Open Source Softwares and GNU/Linux and Android
 
-🌱 I’m currently learning C, C++, Make.
-📫 How to reach me:
-Telegram: @YZBruh
-😄 Pronouns: He/Him
+- 🌱 I’m currently learning C, C++, Make.
+- 📫 How to reach me:
+ - Telegram: @YZBruh
+- 😄 Pronouns: He/Him
 
 #### I'm knowing and learning;
 
