@@ -14,4 +14,14 @@ I'm someone who is passionate about Open Source Softwares and GNU/Linux and Andr
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YZBruh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![android](https://github.com/YZBruh/YZBruh/raw/master/images/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f616e64726f69642d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d616e64726f6964266c6f676f436f6c6f723d25613463363339.svg) ![linux](https://github.com/YZBruh/YZBruh/raw/master/images/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e75782d4643433632343f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e7578266c6f676f436f6c6f723d626c61636b.svg) ![apache](https://github.com/YZBruh/YZBruh/raw/master/images/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6170616368652d2532334434323032392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d617061636865266c6f676f436f6c6f723d7768697465.svg)
+_________
+<p align="center"><br>
+<a href="https://www.gnu.org/software/bash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white"></img></a>
+<a href="https://learn-c.org"><img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"></img></a>
+<a href="https://archlinux.org"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white"></img></a><br>
+<a href="https://getfedora.org"><img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white"></img></a>
+<a href="https://ubuntu.com"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"></img></a>
+<a href="https://kernel.org"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></img></a>
+<a href="https://kernel.org"><img alt="Linux" src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white"></img></a>
+<a href="#"><img src="https://komarev.com/ghpvc/?username=vilez0"></img></a>
+</br></p>
