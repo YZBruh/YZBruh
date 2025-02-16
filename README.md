@@ -2,7 +2,8 @@
 
 I'm someone who is passionate about Open Source Softwares and GNU/Linux and Android
 
-- 🌱 I’m currently learning C, C++, Make.
+- 🌱 I’m currently learning CMake.
+- 🤓 I currently know C, C++ and Make languages.
 - 📫 How to reach me:
   - Telegram: @YZBruh
 - 😄 Pronouns: He/Him
