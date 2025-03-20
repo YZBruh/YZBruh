@@ -1,11 +1,11 @@
 ### Hi there I'm Yağız 👋🏻
 
-I'm someone who is passionate about Open Source Softwares and GNU/Linux and Android
+I'm a 16 year old student interested in Android, Linux and open source softwares.
 
 - 🌱 I’m currently learning CMake.
 - 🤓 I currently know C, C++ and Make languages.
 - 📫 How to reach me:
-  - Telegram: @YZBruh
+  - [Telegram](t.me/YZBruh)
 - 😄 Pronouns: He/Him
 
 #### GitHub Info
