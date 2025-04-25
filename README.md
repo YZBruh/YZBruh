@@ -5,7 +5,7 @@ I'm a 16 year old student interested in Android, Linux and open source softwares
 - 🌱 I’m currently learning CMake.
 - 🤓 I currently know C, C++ and Make languages.
 - 📫 How to reach me:
-  - [Telegram](t.me/YZBruh)
+  - [Telegram](https://t.me/YZBruh)
 - 😄 Pronouns: He/Him
 
 #### GitHub Info
