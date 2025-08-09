@@ -2,8 +2,8 @@
 
 I'm a 16 year old student interested in Android, Linux and open source softwares.
 
-- 🌱 I’m currently learning CMake.
-- 🤓 I currently know C, C++ and Make languages.
+- 🌱 I’m currently learning Kotlin.
+- 🤓 I currently know C, C++, CMake and Make languages.
 - 📫 How to reach me:
   - [Telegram](https://t.me/YZBruh)
 - 😄 Pronouns: He/Him
@@ -15,11 +15,11 @@ I'm a 16 year old student interested in Android, Linux and open source softwares
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YZBruh&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Make](https://img.shields.io/badge/Make-%2300599C.svg?style=for-the-badge&logo=make&logoColor=white)
-![CMake](https://img.shields.io/badge/cmake-%2300599C.svg?style=for-the-badge&logo=cmake&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=darkgreen&color=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)
+![Make](https://img.shields.io/badge/Make-%2300599C.svg?logo=make&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%2300599C.svg?logo=cmake&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
