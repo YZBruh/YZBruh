@@ -1,6 +1,6 @@
 ### Hi there I'm Yağız 👋🏻
 
-I'm a 16 year old student interested in Android, Linux and open source softwares.
+I'm a 17 year old student interested in Android, Linux and open source softwares.
 
 - 🌱 I’m currently learning Kotlin.
 - 🤓 I currently know C, C++, CMake and Make languages.
