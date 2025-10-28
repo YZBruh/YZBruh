@@ -7,6 +7,7 @@ I'm a 17 year old student interested in Android, Linux and open source softwares
 - 📫 How to reach me:
   - [Telegram](https://t.me/YZBruh)
 - 😄 Pronouns: He/Him
+- - [Blog](https://web.yzbruh.space)
 
 #### GitHub Info
 [![stat](https://github-readme-stats.vercel.app/api?username=YZBruh&theme=highcontrast&show_icons=true&hide_border=true)](https://github.com/YZBruh/YZBruh)
