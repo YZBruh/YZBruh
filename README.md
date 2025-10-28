@@ -3,7 +3,7 @@
 I'm a 17 year old student interested in Android, Linux and open source softwares.
 
 - 🌱 I’m currently learning Kotlin.
-- 🤓 I currently know C, C++, CMake and Make languages.
+- 🤓 I currently know C, C++, CMake, Make and Bash languages.
 - 📫 How to reach me:
   - [Telegram](https://t.me/YZBruh)
 - 😄 Pronouns: He/Him
